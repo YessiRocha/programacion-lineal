@@ -2,3 +2,8 @@
 
 En esta página voy a mostrar las cosas magníficas que estoy aprendiendo en el 
 magnífico curso de programación lineal.
+
+
+### Sympy 
+
+Aprendimos a usar la biblioteca sympy.
