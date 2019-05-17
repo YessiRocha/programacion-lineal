@@ -34,3 +34,6 @@ Consideremos el siguiente problema:
    - Y el siguiente...
 * Teoremas 
 
+  Luego demostraremos que el mínimo del problema dual es igual al
+  máximo del problema primitivo.
+
